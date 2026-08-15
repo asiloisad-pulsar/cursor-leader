@@ -2,7 +2,7 @@
 
 Keyboard-driven multi-cursor creation and navigation commands.
 
-![demo](https://github.com/asiloisad/pulsar-cursor-leader/blob/master/assets/demo.gif?raw=true)
+![demo](https://github.com/asiloisad-pulsar/cursor-leader/blob/master/assets/demo.gif?raw=true)
 
 ## Features
 
@@ -12,8 +12,8 @@ Keyboard-driven multi-cursor creation and navigation commands.
 - **Single cursor movement**: Individual cursor movement and selection commands.
 - **Power mode**: Temporarily isolate active cursor for all operations.
 - **Cursor consolidation**: Merge all cursors to the active cursor position.
-- **Overtype compatibility**: Works with [overtype-mode](https://github.com/asiloisad/pulsar-overtype-mode).
-- **Column selection compatibility**: Works with [column-selection](https://github.com/asiloisad/pulsar-column-selection), including in power mode.
+- **Overtype compatibility**: Works with [overtype-mode](https://github.com/asiloisad-pulsar/overtype-mode).
+- **Column selection compatibility**: Works with [column-selection](https://github.com/asiloisad-pulsar/column-selection), including in power mode.
 
 ## Installation
 
