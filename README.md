@@ -17,7 +17,7 @@ Keyboard-driven multi-cursor creation and navigation commands.
 
 ## Installation
 
-To install `cursor-leader` search for [cursor-leader](https://web.pulsar-edit.dev/packages/cursor-leader) in the Install pane of the Pulsar settings or run `ppm install cursor-leader`. Alternatively, you can run `ppm install asiloisad/pulsar-cursor-leader` to install a package directly from the GitHub repository.
+To install `cursor-leader` search for [cursor-leader](https://web.pulsar-edit.dev/packages/cursor-leader) in the Install pane of the Pulsar settings or run `ppm install cursor-leader`. Alternatively, you can run `ppm install asiloisad-pulsar/cursor-leader` to install a package directly from the GitHub repository.
 
 ## Commands
 
