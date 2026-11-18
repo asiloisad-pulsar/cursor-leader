@@ -2,6 +2,9 @@
 
 Keyboard-driven multi-cursor creation and navigation commands.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [cursor-leader](https://github.com/lumine-code/cursor-leader).
+
 ![demo](https://github.com/asiloisad-pulsar/cursor-leader/blob/master/assets/demo.gif?raw=true)
 
 ## Features
